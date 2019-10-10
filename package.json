@@ -2,7 +2,7 @@
     "version": "4.0.10",
     "name": "cordova.plugins.diagnostic",
     "cordova_name": "Diagnostic",
-    "description": "Cordova/Phonegap plugin to check the state of Location/WiFi/Camera/Bluetooth device settings.",
+    "description": "Cordova/Phonegap plugin to check the state of Location/WiFi/Camera device settings.",
     "author": "Dave Alden",
     "license": "MIT",
     "repository": {
@@ -30,7 +30,6 @@
         "location",
         "gps",
         "camera",
-        "bluetooth",
         "settings"
     ],
     "types": "./cordova.plugins.diagnostic.d.ts",
